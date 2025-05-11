@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EscalusD
-- 👀 I’m interested in Backend Development 
+- 👀 I’m interested in Frontend snd Backend Development 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 You can reach me on https://github.com/EscalusD
